@@ -3,7 +3,7 @@
 This is a machine learning web app built with **Streamlit** that predicts house prices in **Bengaluru** based on user inputs like location, area (sqft), number of bedrooms (BHK), and number of bathrooms.
 
 🔗 **Live App:**  
-[https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/](https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/)
+Predict Price of the House[https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/](https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/)
 
 ---
 
@@ -30,15 +30,7 @@ This project is based on the Bengaluru housing dataset and follows the end-to-en
 
 ---
 
-## 💡 Tech Stack
 
-- **Python 3**
-- **Pandas** for data handling
-- **Scikit-learn** for machine learning
-- **Joblib** for model serialization
-- **Streamlit** for the front-end web UI
-
----
 
 ## 📂 Files in This Repository
 
@@ -49,12 +41,4 @@ This project is based on the Bengaluru housing dataset and follows the end-to-en
 | `house_price_model.pkl` | Serialized machine learning pipeline            |
 | `location_list.pkl`   | List of all unique locations used for dropdown UI |
 
----
 
-## 🚀 How to Run Locally
-
-Clone the repo:
-
-```bash
-git clone https://github.com/your-username/House-price-prediction.git
-cd House-price-prediction
