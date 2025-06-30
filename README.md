@@ -3,7 +3,7 @@
 This is a machine learning web app built with **Streamlit** that predicts house prices in **Bengaluru** based on user inputs like location, area (sqft), number of bedrooms (BHK), and number of bathrooms.
 
 🔗 **Live App:**  
-Predict Price of the House[https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/](https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/)
+[Predict Price of the House](https://housepriceprediction-ausj9u22hwtiek458mpzor.streamlit.app/)
 
 ---
 
